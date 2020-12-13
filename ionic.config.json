@@ -1,0 +1,7 @@
+{
+  "name": "tai-chi-helper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
